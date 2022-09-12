@@ -124,7 +124,7 @@
   \resumeSubHeadingListStart
     \resumeSubheading
       {MIT ADT University}{Pune, MH}
-      {Integrated Master of Technology in Bioengineering - CGPA: 8.33/10.00}{Aug. 2018 – Jun. 2023}
+      {Integrated Master of Technology in Bioengineering - CGPA: 8.41/10.00}{Aug. 2018 – Jun. 2023}
     \resumeSubheading
       {People’s Higher Secodary School}{Panaji, GA}
       {HSSC Class XII - 84.2\%}{Mar. 2018}
@@ -142,9 +142,11 @@
       {Project Trainee}{Jun. 2022 – Jun. 2023}
       {Nihilent Limited}{Pune, MH}
       \resumeItemListStart
-        \resumeItem{Developed a REST API using FastAPI and PostgreSQL to store data from learning management systems}
-        \resumeItem{Developed a full-stack web application using Flask, React, PostgreSQL and Docker to analyze GitHub data}
-        \resumeItem{Explored ways to visualize GitHub collaboration in a classroom setting}
+        \resumeItem{Worked on projects dealing with web development technologies.}
+        \resumeItem{Designed \& developed components using Python with Django Framework.}
+        \resumeItem{Implemented code in Python to retrieve \& manipulate data.}
+        \resumeItem{Gained a basic understanding of Django REST Framework.}
+        \resumeItem{Exposure to Pandas, NumPy, Matplotlib.}
       \resumeItemListEnd
       
 % -----------Multiple Positions Heading-----------
@@ -162,8 +164,8 @@
       {Indian Institute of Technology Indore}{Remote}
       \resumeItemListStart
         \resumeItem{Conducted a comprehensive research study on Phase Change Materials (PCMs)}
-        \resumeItem{Created reports on Applications of PCMs in Bioengineering}
-        \resumeItem{Learnt basics of Computational Fluid Dynamics}
+        \resumeItem{Created reports on Applications of PCMs in Bioengineering.}
+        \resumeItem{Learnt basics of Computational Fluid Dynamics.}
     \resumeItemListEnd
 
 
@@ -176,20 +178,19 @@
       \resumeProjectHeading
           {\textbf{MIT Medicinal Plant Database} $|$ \emph{ MongoDB, ExpressJS, Svelte, NodeJS}}{Sep. 2021 – Sep. 2022}
           \resumeItemListStart
-            \resumeItem{A database of plant secondary metabolites with prediction tools for drug discovery}
-            \resumeItem{Managed the data curation team & supported frontend development}
+            \resumeItem{Managed the data curation team \& supported end-to-end development.}
+            \resumeItem{Worked on various MongoDB database concepts.}
+            \resumeItem{Data curation using advanced googling skill.}
             \resumeItem{Project details: \href{https://mitmpd.netlify.app/}{\underline{Link}}}
           \resumeItemListEnd
       \resumeProjectHeading
-          {\textbf{Simple Paintball} $|$ \emph{Spigot API, Java, Maven, TravisCI, Git}}{May 2018 -- May 2020}
+          {\textbf{Summer Olympic Games Analysis} $|$ \emph{PowerBI, Python, SQL, Git}}{Aug. 2021}
           \resumeItemListStart
-            \resumeItem{Developed a Minecraft server plugin to entertain kids during free time for a previous job}
-            \resumeItem{Published plugin to websites gaining 2K+ downloads and an average 4.5/5-star review}
-            \resumeItem{Implemented continuous delivery using TravisCI to build the plugin upon new a release}
-            \resumeItem{Collaborated with Minecraft server administrators to suggest features and get feedback about the plugin}
+            \resumeItem{Analyze and present data to understand how countries have performed historically.}
+            \resumeItem{Used SQL skills to transform data.}
+            \resumeItem{Project details: \href{https://github.com/zadilkhwaja/Data-Analyst-Portfolio-Project-Olympic-Games-Analysis}{\underline{Link}}}
           \resumeItemListEnd
     \resumeSubHeadingListEnd
-
 
 
 %
@@ -197,10 +198,9 @@
 \section{Technical Skills}
  \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
-     \textbf{Languages}{: Python, Java, SQL, JavaScript, HTML/CSS} \\
+     \textbf{Languages \& Database}{: Python, Java, SQL, JavaScript, HTML/CSS, MongoDB} \\
      \textbf{Frameworks}{: Django, Bootstrap, React} \\
-     \textbf{Developer Tools}{: Git, PowerBI, VS code, PyCharm} \\
-     \textbf{Libraries}{: Pandas, NumPy, Matplotlib}
+     \textbf{Tools}{: Git, PowerBI, MatLab, Json, MS Office} \\
     }}
  \end{itemize}
 
