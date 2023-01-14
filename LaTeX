@@ -124,7 +124,10 @@
   \resumeSubHeadingListStart
     \resumeSubheading
       {MIT ADT University}{Pune, MH}
-      {Integrated Master of Technology in Bioengineering - CGPA: 8.41/10.00}{Aug. 2018 – Jun. 2023}
+      {Integrated Master of Technology in Bioengineering - CGPA: 8.41/10.00}{Aug. 2018 – Jul. 2023}
+      \resumeItemListStart
+        \resumeItem{Relevant coursework: Web Technology, ML\&AI, Data Science, Statistics, Digital Signal Processing, IoT}
+      \resumeItemListEnd
     \resumeSubheading
       {People’s Higher Secodary School}{Panaji, GA}
       {HSSC Class XII - 84.2\%}{Mar. 2018}
@@ -133,7 +136,16 @@
       {SSC Class X - 92.5\%}{Mar. 2016}  
   \resumeSubHeadingListEnd
 
-
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages \& Database}{: Python, JavaScript, SQL, Java, HTML5, CSS3, R, MongoDB, LaTeX} \\
+     \textbf{Libraries \& Frameworks}{: Django, Plotly Dash, jQuery, Bootstrap, React} \\
+     \textbf{Tools}{: Git, PowerBI, Pandas, Numpy, MatLab, Arduino, Labelme, MS Office} \\
+    }}
+ \end{itemize}
+ 
 %-----------EXPERIENCE-----------
 \section{Experience}
   \resumeSubHeadingListStart
@@ -142,11 +154,13 @@
       {Project Trainee}{Jun. 2022 – Jun. 2023}
       {Nihilent Limited}{Pune, MH}
       \resumeItemListStart
-        \resumeItem{Worked on projects dealing with web development technologies.}
-        \resumeItem{Designed \& developed components using Python with Django Framework.}
-        \resumeItem{Implemented code in Python to retrieve \& manipulate data.}
-        \resumeItem{Gained a basic understanding of Django REST Framework.}
-        \resumeItem{Exposure to Pandas, NumPy, Matplotlib.}
+        \resumeItem{Worked primarily as a Front-end Developer on the \href{https://emoscape.nihilent.com/}{\underline{Emoscape}} project under the CTO team.}
+        \resumeItem{Used CSS, HTML \& JavaScript to  rapidly deploy new features and troubleshooting issues with the website.}
+        \resumeItem{Developed apps using Django and worked with API's, QuerySets, and Regex to retrieve and manipulate data.}
+        \resumeItem{Used MediaRecorder library to process metadata of video uploaded by user and POST it to API.}
+        \resumeItem{Gained expertise in using Plotly Dash and ChartJS to create data visualizations involving complex arithmetic calculations \& callback functions. Developed animated charts to analyze user engagement \& emotional response.}
+        \resumeItem{Assisted team in Data Sorting and Annotation for Machine Learning Multiface Model Training.}
+        \resumeItem{Proficiency in Object Oriented Programming and experience applying MVC and factory design patterns.}
       \resumeItemListEnd
       
 % -----------Multiple Positions Heading-----------
@@ -163,9 +177,9 @@
       {Summer Research Intern}{Jul. 2021 – Oct. 2021}
       {Indian Institute of Technology Indore}{Remote}
       \resumeItemListStart
-        \resumeItem{Conducted a comprehensive research study on Phase Change Materials (PCMs)}
-        \resumeItem{Created reports on Applications of PCMs in Bioengineering.}
-        \resumeItem{Learnt basics of Computational Fluid Dynamics.}
+        \resumeItem{Conducted a comprehensive research study on Thermal Energy Storage \& Phase Change Materials (PCMs).}
+        \resumeItem{Explored it's properties \& presented findings in a detailed \href{https://drive.google.com/file/d/1TB7u3KDfLacw_CLiOv-UUbzpcHIS8uod/view?usp=drivesdk&usp=embed_facebook&usp=embed_facebook}{\underline{report}} titled  "Applications of PCMs in Bioengineering".}
+        \resumeItem{Learnt basics of Computational Fluid Dynamics to simulate and analyze fluid flow in various systems.}
     \resumeItemListEnd
 
 
@@ -176,36 +190,28 @@
 \section{Projects}
     \resumeSubHeadingListStart
       \resumeProjectHeading
-          {\textbf{MIT Medicinal Plant Database} $|$ \emph{ MongoDB, ExpressJS, Svelte, NodeJS}}{Sep. 2021 – Sep. 2022}
+          {\textbf{MIT Medicinal Plant Database} $|$ \emph{ MongoDB, ExpressJS, Svelte, NodeJS} $|$ \href{https://mitmpd.netlify.app/}{\underline{Link}}}{Sep. 2021 – Sep. 2022}
           \resumeItemListStart
-            \resumeItem{Managed the data curation team \& supported end-to-end development.}
-            \resumeItem{Worked on various MongoDB database concepts.}
-            \resumeItem{Data curation using advanced googling skill.}
-            \resumeItem{Project details: \href{https://mitmpd.netlify.app/}{\underline{Link}}}
+            \resumeItem{Managed the data curation team and supported the entire development process.}
+            \resumeItem{Gained experience working on various MongoDB database concepts \& used advanced googling skill to curate data.}
           \resumeItemListEnd
       \resumeProjectHeading
-          {\textbf{Summer Olympic Games Analysis} $|$ \emph{PowerBI, Python, SQL, Git}}{Aug. 2021}
+          {\textbf{Summer Olympic Games Analysis} $|$ \emph{PowerBI, Python, SQL, Git} $|$ \href{https://github.com/zadilkhwaja/Data-Analyst-Portfolio-Project-Olympic-Games-Analysis}{\underline{Link}}}{Aug. 2021}
           \resumeItemListStart
-            \resumeItem{Analyze and present data to understand how countries have performed historically.}
-            \resumeItem{Used SQL skills to transform data.}
-            \resumeItem{Project details: \href{https://github.com/zadilkhwaja/Data-Analyst-Portfolio-Project-Olympic-Games-Analysis}{\underline{Link}}}
+            \resumeItem{Created a dashboard with filters and used SQL skills to transform data.}
+            \resumeItem{Created a single table data model in Power BI and used Data Analysis Expressions to create various calculations.}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{Genetic Engineering of Bacteria for Sanitary Waste Degradation} $|$ {\href{https://drive.google.com/file/d/1jLUHI7edLrx72-_yrWwIHGAyk3PVLO5N/view?usp=drivesdk&usp=embed_facebook&usp=embed_facebook}{\underline{Link}}}}{Feb.2022 - May 2022}
+          \resumeItemListStart
+            \resumeItem{Modified a bacteria using synthetic biology to degrade plastic generated by sanitary waste.}
           \resumeItemListEnd
     \resumeSubHeadingListEnd
 
 
 %
-%-----------PROGRAMMING SKILLS-----------
-\section{Technical Skills}
- \begin{itemize}[leftmargin=0.15in, label={}]
-    \small{\item{
-     \textbf{Languages \& Database}{: Python, Java, SQL, JavaScript, HTML/CSS, MongoDB} \\
-     \textbf{Frameworks}{: Django, Bootstrap, React} \\
-     \textbf{Tools}{: Git, PowerBI, MatLab, Json, MS Office} \\
-    }}
- \end{itemize}
-
 %-----------AWARDS-----------
-\section{AWARDS}
+\section{Awards}
     \resumeSubHeadingListStart
       \resumeSubheading
         {Innovative Solution Award - BETiC, IIT Bombay} {May 2021}
