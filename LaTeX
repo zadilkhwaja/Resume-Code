@@ -17,6 +17,7 @@
 \usepackage[hidelinks]{hyperref}
 \usepackage{fancyhdr}
 \usepackage[english]{babel}
+\usepackage{fontawesome5}
 \usepackage{tabularx}
 \input{glyphtounicode}
 
@@ -112,11 +113,56 @@
 % \end{tabular*}
 
 \begin{center}
-    \textbf{\Huge \scshape Zakariya Adil A. Khwaja} \\ \vspace{1pt}
-    \small +91 9370131609 $|$ \href{mailto:zadilkhwaja@gmail.com}{\underline{zadilkhwaja@gmail.com}} $|$ 
-    \href{https://linkedin.com/in/zadilkhwaja}{\underline{linkedin.com/in/zadilkhwaja}} $|$
-    \href{https://github.com/zadilkhwaja}{\underline{github.com/zadilkhwaja}}
+    \textbf{\Huge \scshape Adil Khwaja} \\ \vspace{0.3cm}
+    \small  \href{tel:+919370131609}{\underline{\faPhone\ +91 9370131609}} $|$ \href{mailto:zadilkhwaja@gmail.com}{\underline{\faEnvelope\ zadilkhwaja@gmail.com}} $|$ 
+    \href{https://linkedin.com/in/zadilkhwaja}{\underline{\faLinkedin\ linkedin.com/in/zadilkhwaja}} $|$
+    \href{https://github.com/zadilkhwaja}{\underline{\faGithub\ github.com/zadilkhwaja}}
 \end{center}
+
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  
+\resumeSubHeadingListStart
+  \resumeSubheading
+      {Nihilent Limited}{Pune, MH}
+      {Software Engineer}{Jun. 2023 – Present}
+      \resumeItemListStart
+        \resumeItem{
+      Engineered dynamic and responsive user interfaces, successfully delivering the UI for Nihilent's Emoscape User Management Portal.}
+      \resumeItem{Working as a lead for Customer Facing Systems overlooking modules like checkout, payment, notifications and pricing. Owned Auth services, which included signup OTP, token validations.}
+      \resumeItem{Built scalable Django REST API's. Implemented caching, server-side pagination and middleware's.}
+      \resumeItem{Worked closely with multiple stakeholders and taking key decisions to GTM.}
+     \resumeItemListEnd
+     
+    \vspace{-\baselineskip}
+    \resumeSubheading
+      {}{}
+      {Project Trainee}{Jun. 2022 – Jun. 2023}
+      \resumeItemListStart
+        \resumeItem{Implemented robust database solutions, leveraging MySQL stored procedures \& MongoDB aggregation pipelines.}
+        \resumeItem{Developed animated data visualizations, providing insights into user engagement and emotional responses.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+    {IIT Indore}{Remote}
+      {Summer Research Intern}{Jul. 2021 – Oct. 2021}
+      \resumeItemListStart
+        \resumeItem{Conducted a comprehensive research study on Thermal Energy Storage and Phase Change Materials.}
+    \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+  
+
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages \& Database}{: Python, JavaScript, HTML5, CSS3, MySQL, MongoDB} \\
+     \textbf{Libraries \& Frameworks}{: Django REST, React, jQuery, Flask, Plotly, ChartJS} \\
+     \textbf{Tools}{: Git, Docker, PowerBI, Postman} \\
+    }}
+ \end{itemize}
 
 
 %-----------EDUCATION-----------
@@ -124,101 +170,58 @@
   \resumeSubHeadingListStart
     \resumeSubheading
       {MIT ADT University}{Pune, MH}
-      {Integrated Master of Technology in Bioengineering - CGPA: 8.41/10.00}{Aug. 2018 – Jul. 2023}
+      {Integrated Master of Technology in Bioengineering - CGPA: 8.50/10.00}{Aug. 2018 – Jul. 2023}
       \resumeItemListStart
-        \resumeItem{Relevant coursework: Web Technology, ML\&AI, Data Science, Statistics, Digital Signal Processing, IoT}
+        \resumeItem{Relevant coursework: ML\&AI, Big Data, Java \& Web Technology, DSA, Statistics, Data Analytics, OOPs, IoT}
       \resumeItemListEnd
     \resumeSubheading
-      {People’s Higher Secodary School}{Panaji, GA}
+      {People’s Higher Secondary}{Panaji, GA}
       {HSSC Class XII - 84.2\%}{Mar. 2018}
-    \resumeSubheading
-      {People’s High School}{Panaji, GA}
-      {SSC Class X - 92.5\%}{Mar. 2016}  
-  \resumeSubHeadingListEnd
-
-%-----------PROGRAMMING SKILLS-----------
-\section{Technical Skills}
- \begin{itemize}[leftmargin=0.15in, label={}]
-    \small{\item{
-     \textbf{Languages \& Database}{: Python, JavaScript, SQL, Java, HTML5, CSS3, R, MongoDB, LaTeX} \\
-     \textbf{Libraries \& Frameworks}{: Django, Plotly Dash, jQuery, Bootstrap, React} \\
-     \textbf{Tools}{: Git, PowerBI, Pandas, Numpy, MatLab, Arduino, Labelme, MS Office} \\
-    }}
- \end{itemize}
- 
-%-----------EXPERIENCE-----------
-\section{Experience}
-  \resumeSubHeadingListStart
-
-    \resumeSubheading
-      {Project Trainee}{Jun. 2022 – Jun. 2023}
-      {Nihilent Limited}{Pune, MH}
       \resumeItemListStart
-        \resumeItem{Worked primarily as a Front-end Developer on the \href{https://emoscape.nihilent.com/}{\underline{Emoscape}} project under the CTO team.}
-        \resumeItem{Used CSS, HTML \& JavaScript to  rapidly deploy new features and troubleshooting issues with the website.}
-        \resumeItem{Developed apps using Django and worked with API's, QuerySets, and Regex to retrieve and manipulate data.}
-        \resumeItem{Used MediaRecorder library to process metadata of video uploaded by user and POST it to API.}
-        \resumeItem{Gained expertise in using Plotly Dash and ChartJS to create data visualizations involving complex arithmetic calculations \& callback functions. Developed animated charts to analyze user engagement \& emotional response.}
-        \resumeItem{Assisted team in Data Sorting and Annotation for Machine Learning Multiface Model Training.}
-        \resumeItem{Proficiency in Object Oriented Programming and experience applying MVC and factory design patterns.}
+        \resumeItem{Awards: 1st Rank Science Stream and Student of the Year}
       \resumeItemListEnd
-      
-% -----------Multiple Positions Heading-----------
-%    \resumeSubSubheading
-%     {Software Engineer I}{Oct 2014 - Sep 2016}
-%     \resumeItemListStart
-%        \resumeItem{Apache Beam}
-%          {Apache Beam is a unified model for defining both batch and streaming data-parallel processing pipelines}
-%     \resumeItemListEnd
-%    \resumeSubHeadingListEnd
-%-------------------------------------------
-
-    \resumeSubheading
-      {Summer Research Intern}{Jul. 2021 – Oct. 2021}
-      {Indian Institute of Technology Indore}{Remote}
-      \resumeItemListStart
-        \resumeItem{Conducted a comprehensive research study on Thermal Energy Storage \& Phase Change Materials (PCMs).}
-        \resumeItem{Explored it's properties \& presented findings in a detailed \href{https://drive.google.com/file/d/1TB7u3KDfLacw_CLiOv-UUbzpcHIS8uod/view?usp=drivesdk&usp=embed_facebook&usp=embed_facebook}{\underline{report}} titled  "Applications of PCMs in Bioengineering".}
-        \resumeItem{Learnt basics of Computational Fluid Dynamics to simulate and analyze fluid flow in various systems.}
-    \resumeItemListEnd
-
-
   \resumeSubHeadingListEnd
-
+ 
 
 %-----------PROJECTS-----------
 \section{Projects}
     \resumeSubHeadingListStart
       \resumeProjectHeading
-          {\textbf{MIT Medicinal Plant Database} $|$ \emph{ MongoDB, ExpressJS, Svelte, NodeJS} $|$ \href{https://mitmpd.netlify.app/}{\underline{Link}}}{Sep. 2021 – Sep. 2022}
+          {\textbf{RAG Based LLM App} $|$ \emph{GenAI, Docker} $|$ \href{https://github.com/zadilkhwaja/RAG-Based-LLM-App} {\underline{Link}}}{Aug. 2024}
           \resumeItemListStart
-            \resumeItem{Managed the data curation team and supported the entire development process.}
-            \resumeItem{Gained experience working on various MongoDB database concepts \& used advanced googling skill to curate data.}
+            \resumeItem{Enhanced data retrieval and generation capabilities with low-latency performance using LangChain and neo4j.}
+            \resumeItem{Containerized using Docker Compose, enabling efficient multi-container management and orchestration.}
           \resumeItemListEnd
+      
       \resumeProjectHeading
-          {\textbf{Summer Olympic Games Analysis} $|$ \emph{PowerBI, Python, SQL, Git} $|$ \href{https://github.com/zadilkhwaja/Data-Analyst-Portfolio-Project-Olympic-Games-Analysis}{\underline{Link}}}{Aug. 2021}
+          {\textbf{TripSage AI Pro} $|$ \emph{React, Typescript, Tailwind} $|$ \href{https://github.com/zadilkhwaja/TripSageAIPro} {\underline{Link}}}{Aug. 2024}
           \resumeItemListStart
-            \resumeItem{Created a dashboard with filters and used SQL skills to transform data.}
-            \resumeItem{Created a single table data model in Power BI and used Data Analysis Expressions to create various calculations.}
+            \resumeItem{Utilized React's component-based architecture to build reusable and modular UI components.}
+            \resumeItem{Used static type-checking to catch errors at compile-time and SquidAI on the backend.}
           \resumeItemListEnd
+          
       \resumeProjectHeading
-          {\textbf{Genetic Engineering of Bacteria for Sanitary Waste Degradation} $|$ {\href{https://drive.google.com/file/d/1jLUHI7edLrx72-_yrWwIHGAyk3PVLO5N/view?usp=drivesdk&usp=embed_facebook&usp=embed_facebook}{\underline{Link}}}}{Feb.2022 - May 2022}
+          {\textbf{MIT Medicinal Plant Database} $|$ \emph{MongoDB, ExpressJS, NodeJS} $|$ \href{https://mitmpd.netlify.app/} {\underline{Link}}}{Sep. 2021 – Sep. 2022}
           \resumeItemListStart
-            \resumeItem{Modified a bacteria using synthetic biology to degrade plastic generated by sanitary waste.}
+            \resumeItem{Designed an E-R diagram, data models \& aggregation pipelines significantly improving the database efficiency.}
           \resumeItemListEnd
+        
     \resumeSubHeadingListEnd
 
-
-%
+    
 %-----------AWARDS-----------
 \section{Awards}
     \resumeSubHeadingListStart
       \resumeSubheading
+        {Star for the Quarter} {Mar 2024}
+        {Nihilent Limited}{}
+    
+      \resumeSubheading
         {Innovative Solution Award - BETiC, IIT Bombay} {May 2021}
         {Medical Device Hackathon}{}
-      \resumeSubheading
-        {Toppers Award - People’s Higher Secondary School} {Mar. 2018}
-        {1st Rank Science Stream}{}   
+        \resumeItemListStart
+          \resumeItem{Prototyped interactive Human Anatomy VR experience with Haptic feedback mechanism.}
+        \resumeItemListEnd
     \resumeSubHeadingListEnd
 
 %-------------------------------------------
