@@ -187,7 +187,7 @@
 \section{Projects}
     \resumeSubHeadingListStart
       \resumeProjectHeading
-          {\textbf{RAG Based LLM App} $|$ \emph{GenAI, Docker} $|$ \href{https://github.com/zadilkhwaja/RAG-Based-LLM-App} {\underline{Link}}}{Aug. 2024}
+          {\textbf{RAG Based LLM App} $|$ \emph{GenAI, Docker} $|$ \href{https://github.com/zadilkhwaja/RAG-Based-AI-Chatbot} {\underline{Link}}}{Aug. 2024}
           \resumeItemListStart
             \resumeItem{Enhanced data retrieval and generation capabilities with low-latency performance using LangChain and neo4j.}
             \resumeItem{Containerized using Docker Compose, enabling efficient multi-container management and orchestration.}
